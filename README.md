@@ -89,7 +89,7 @@ developer = {
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BohdanSkibitskyi&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=ff6b6b&currStreakLabel=00d4aa)
+![GitHub Streak](https://streak-stats.demolab.com?user=bagdanchik007&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=ff6b6b&currStreakLabel=00d4aa)
 
 </div>
 
