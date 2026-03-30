@@ -1,1 +1,116 @@
-# Vorstellung
+<div align="center">
+
+<!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:00d4aa&height=200&section=header&text=Bohdan%20Skibitskyi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%7C%20FastAPI%20%7C%20Django&descAlignY=58&descColor=00d4aa" />
+
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hallo!+Ich+bin+Bohdan+%F0%9F%91%8B;Backend+Developer+in+Ausbildung;Python+%7C+FastAPI+%7C+Django+%7C+Docker;Auf+der+Suche+nach+Ausbildungsplatz+%F0%9F%87%A9%F0%9F%87%AA)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🇩🇪 Über mich / About me / Обо мне
+
+```python
+developer = {
+    "name":       "Bohdan Skibitskyi",
+    "location":   "🇩🇪 Deutschland",
+    "goal":       "Ausbildung zum Fachinformatiker (Anwendungsentwicklung)",
+    "backend":    ["Python", "Django", "FastAPI", "PostgreSQL", "Docker"],
+    "frontend":   ["HTML", "CSS", "Tailwind CSS", "JavaScript", "React (basics)"],
+    "explored":   ["Pygame", "Pandas", "Matplotlib"],
+    "learning":   ["Java", "React", "CI/CD"],
+    "languages":  ["Ukrainisch 🇺🇦 (Muttersprache)", "Russisch 🇷🇺 (Muttersprache)", "Deutsch 🇩🇪 (B1+)", "Englisch 🇬🇧 (B2)"],
+    "available":  True
+}
+```
+
+> 🎯 **Ich suche einen Ausbildungsplatz als Fachinformatiker Anwendungsentwicklung.**  
+> Motiviert, lernbereit und begeistert von sauberem, wartbarem Code.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Frontend (Grundkenntnisse)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Erkundet / Ausprobiert
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Aktuell am Lernen
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Meine Projekte / My Projects
+
+| Projekt | Beschreibung | Stack | Demo |
+|---------|-------------|-------|------|
+| 🔖 **[Projektname](https://github.com/BohdanSkibitskyi/repo-name)** | Kurze Beschreibung | FastAPI · PostgreSQL | [→](https://github.com/BohdanSkibitskyi/repo-name) |
+
+<!-- ✏️ ЯК ДОДАТИ ПРОЕКТ: скопіюй рядок вище і заміни Projektname, repo-name, Beschreibung і Stack -->
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=BohdanSkibitskyi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BohdanSkibitskyi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=ffffff" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BohdanSkibitskyi&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=ff6b6b&currStreakLabel=00d4aa)
+
+</div>
+
+---
+
+## 📬 Kontakt / Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bogdanskibitskyi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bohdan-skibitskyi-bb03453b9)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bagdanchik007)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:0d1117&height=100&section=footer" />
+
+*„Der Anfang ist die Hälfte des Ganzen." — Aristoteles*
+
+</div>
