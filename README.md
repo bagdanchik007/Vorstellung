@@ -18,9 +18,9 @@ developer = {
     "location":   "🇩🇪 Deutschland",
     "goal":       "Ausbildung zum Fachinformatiker (Anwendungsentwicklung)",
     "backend":    ["Python", "Django", "FastAPI", "PostgreSQL", "Docker"],
-    "frontend":   ["HTML", "CSS", "Tailwind CSS", "JavaScript", "React (basics)"],
+    "frontend":   ["HTML", "CSS", "JavaScript",],
     "explored":   ["Pygame", "Pandas", "Matplotlib"],
-    "learning":   ["Java", "React", "CI/CD"],
+    "learning_interess":   ["Java", "React",C++],
     "languages":  ["Ukrainisch 🇺🇦 (Muttersprache)", "Russisch 🇷🇺 (Muttersprache)", "Deutsch 🇩🇪 (B1+)", "Englisch 🇬🇧 (B2)"],
     "available":  True
 }
@@ -72,7 +72,6 @@ developer = {
 |---------|-------------|-------|------|
 | 🔖 **[Projektname](https://github.com/BohdanSkibitskyi/repo-name)** | Kurze Beschreibung | FastAPI · PostgreSQL | [→](https://github.com/BohdanSkibitskyi/repo-name) |
 
-<!-- ✏️ ЯК ДОДАТИ ПРОЕКТ: скопіюй рядок вище і заміни Projektname, repo-name, Beschreibung і Stack -->
 
 ---
 
